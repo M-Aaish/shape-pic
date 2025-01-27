@@ -4,3 +4,4 @@ numpy==1.23.5
 scipy==1.10.0
 Pillow==9.3.0
 webcolors==1.12
+numpy>=1.25.0
